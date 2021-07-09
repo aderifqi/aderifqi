@@ -1,7 +1,7 @@
 - 👋 Hi, I’m ade rifqi
-- 👀 I’m interested in Penetrations Testing or Bug Bounty
-- 🌱 I’m currently learning Linux and Programing
-- 💞️ I’m looking to collaborate on Bug Bounty
+- 👀 I’m interested in Python Programing
+- 🌱 I’m currently learning Fullstack Developer
+- 💞️ I’m looking to collaborate on Fullstack with Django and vue
 - 📫 How to reach me ...
 
 <!---
