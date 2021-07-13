@@ -1,10 +1,3 @@
-- 👋 Hi, I’m ade rifqi
-- 👀 I’m interested in Python Programing
-- 🌱 I’m currently learning Fullstack Developer
-- 💞️ I’m looking to collaborate on Fullstack with Django and vue
-- 📫 How to reach me ...
-
-<!---
-aderifqi/aderifqi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![](https://raw.githubusercontent.com/aderifqi/aderifqi/main/profile-summary-card-output/monokai/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/aderifqi/aderifqi/main/profile-summary-card-output/monokai/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/aderifqi/aderifqi/main/profile-summary-card-output/monokai/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/aderifqi/aderifqi/main/profile-summary-card-output/monokai/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/aderifqi/aderifqi/main/profile-summary-card-output/monokai/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
